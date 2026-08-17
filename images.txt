@@ -1,3 +1,4 @@
+postgres:16
 eclipse-temurin:21-jre
 php:7.1-cli
 php:8.3-fpm
